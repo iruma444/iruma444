@@ -118,38 +118,4 @@
 </tr>
 </table>
 
----
-
-## 📂 Projects
-
-### 🏗️ [civil-flow](https://github.com/iruma444/civil-flow)
-> 土木現場向け勤怠管理・ワークフロー基盤
-
-**Features**: GPS打刻 / 天気API / 統計ダッシュボード / 休暇申請 / CSV・PDF出力 / PWA / 通知  
-**Tech**: `Next.js` `NestJS` `TypeScript` `Prisma`
-
----
-
-### 🎙️ [voice-journal](https://github.com/iruma444/voice-journal)
-> 音声ジャーナリング × AI分析Webアプリ
-
-**Features**: ブラウザ録音 / 波形表示 / 日付別管理 / 感情傾向・ストレス分析 / 週次レポート  
-**Tech**: `React` `Vite` `TypeScript`
-
----
-
-### 🍽️ [izakaya-os-pro](https://github.com/iruma444/izakaya-os-pro)
-> 飲食店向け店舗OS（AIで運用を軽くする）
-
-**Features**: OCR / 発注文生成 / シフト表生成 / 日報整形 / 原価計算  
-**Tech**: `Gemini API`（プロトタイプ）
-
----
-
-### 🎨 Other
-- **gakuLP**: 学チャレ合同会社LP（情報設計・実装）
-- **designHP / sketch**: デザイン表現・ジェネラティブアート（`p5.js`）
-
----
-
 ## 🎯 Working Style
