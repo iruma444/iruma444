@@ -6,8 +6,8 @@
 **東京大学 松尾研究室でAI・機械学習を学習中**
 
 [![GitHub](https://img.shields.io/badge/GitHub-iruma444-181717?style=flat-square&logo=github)](https://github.com/iruma444)
-[![Twitter](https://img.shields.io/badge/Twitter-@iruma444-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/at_x_y_)
-[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail)](chaobinaimulang@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@at_x_y_-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/at_x_y_)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?stye=flat-square&logo=gmail)](chaobinaimulang@gmail.com)
 
 **"仕組み化と実装で、現実を前に進める"**
 
