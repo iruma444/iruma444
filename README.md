@@ -70,6 +70,11 @@
 ### **Other**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 🎯 Working Style
+
 - PM（プロジェクト管理・優先順位付け・関係者調整）
 - 営業・マーケティング（テレアポ・訪問・SNS・SEO）
 - コミュニティ運営
