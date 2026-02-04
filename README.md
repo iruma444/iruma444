@@ -119,3 +119,31 @@
 </table>
 
 ## 🎯 Working Style
+---
+
+## 🚀 Direction
+
+最終的には**「パーソナルAI」**の実現を目指していますが、初期は大学・現場など小さなスコープで"本当に使われる"形を作り、**実装 → 運用 → 改善のサイクル**を回しながら拡張していきます。
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-iruma444-181717?style=for-the-badge&logo=github)](https://github.com/iruma444)
+[![Twitter](https://img.shields.io/badge/Twitter-@iruma444-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/iruma444)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome)](https://your-portfolio.com)
+
+**お仕事のご相談・コラボレーションのお誘いなど、お気軽にご連絡ください！**
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by iruma4**
+
+</div>
