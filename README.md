@@ -1,15 +1,29 @@
 # 朝比奈 睦郎（iruma4）
 
-愛媛大学 工学部 3年 | 土木系研究室所属 | 大阪出身  
-東京大学 松尾研究室でAI・機械学習を学習中 | 個人事業主として複数プロジェクトを推進
+<div align="center">
 
-## About
+**愛媛大学 工学部 3年 | 土木系研究室所属 | 大阪出身**  
+**東京大学 松尾研究室でAI・機械学習を学習中**
 
-現実世界の複雑さを、抽象化と構造化で扱える形に変換し、**運用され続ける仕組み**として実装することに関心があります。
+[![GitHub](https://img.shields.io/badge/GitHub-iruma444-181717?style=flat-square&logo=github)](https://github.com/iruma444)
+[![Twitter](https://img.shields.io/badge/Twitter-@iruma444-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/iruma444)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail)](mailto:your.email@example.com)
 
-課題を機能追加として捉えるのではなく、現場の制約・心理・情報流通・意思決定・運用負荷まで含めて設計し、AIを含む技術で解像度高く実装することを重視しています。
+**"仕組み化と実装で、現実を前に進める"**
 
-## Background
+</div>
+
+---
+
+## 🎯 About
+
+現実世界の複雑さを、**抽象化と構造化**で扱える形に変換し、**運用され続ける仕組み**として実装することに関心があります。
+
+課題を機能追加として捉えるのではなく、**現場の制約・心理・情報流通・意思決定・運用負荷**まで含めて設計し、AIを含む技術で解像度高く実装することを重視しています。
+
+---
+
+## 💼 Background
 
 ### 🎓 Academic
 - **専攻**: 土木工学（構造物における非破壊調査・振動測定）
@@ -17,76 +31,125 @@
 - **知識領域**: 力学・コンクリート特性・都市計画・交通量予測など土木系全般
 - **今後**: 愛媛大学院進学予定（あと3年は愛媛）
 
-### 💼 Business
+### 🚀 Business Experience
 - **個人事業主**: Web開発・PM・業務設計・仕組み化
 - **GCI愛媛コミュニティ運営**: 松尾研の入門講座の地域コミュニティ運営
 - **事業開発**: 印刷系上場企業でECサイト周りの事業開発（2年）
-  - 営業（テレアポ・訪問）/ マーケティング（SNS・SEO）/ コミュニティ運営
+  - 営業（テレアポ・訪問）
+  - マーケティング（SNS・SEO）
+  - コミュニティ運営
 - **起業経験**: えひめ学生起業塾・学チャレ合同会社
 - **ビジコン**: CVG四国で優秀賞
 
 ### 🎙️ Other
 - **ラジオパーソナリティ**: FM愛媛
 
-## Focus
+---
 
-- 現場の「暗黙知」を形式知化し、再現可能なオペレーションに落とす
-- 人の判断や経験を、プロダクトのワークフローとして再設計する
-- 仕組み化・自動化・標準化によって"回る状態"を作る
-- AIを「魔法」ではなく、現実に組み込める道具として設計する
-- UI/UX、データ、運用、改善サイクルまでを一体で作る
+## 🛠️ Skills
 
-## Interests
+### **Frontend**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![p5.js](https://img.shields.io/badge/-p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white)
 
-### 🏗️ 土木・インフラ × AI
-土木現場のDX、橋梁・トンネルのひび割れ自動検出、ドローン × AIによるインフラ点検など、"現場で使える"精度と運用導線の設計
+### **Backend**
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-### 📚 教育・学習支援
-大学講義資料・シラバス・ノートを統合した学習支援AI。小規模コミュニティから実装して改善するアプローチ
+### **AI/ML**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- 深層学習（LLM・Diffusionモデルの数学的理解）
+- Gemini API / OpenAI API
 
-### 🎙️ 内省 × プロダクト
-音声ジャーナリング・感情傾向分析・週次レポートなど、内省をデータ化し自己理解を前に進めるプロダクト設計
-
-### 💼 業務・運用設計
-事業の"運用"を設計し、現場の意思決定を速くするダッシュボード・可視化、業務の属人性を減らすテンプレ化・ワークフロー化
-
-## Projects
-
-### [civil-flow](https://github.com/iruma444/civil-flow)
-土木現場向け勤怠管理・ワークフロー基盤  
-GPS打刻 / 天気API / 統計ダッシュボード / 休暇申請 / CSV・PDF出力 / PWA / 通知  
-**Tech**: Next.js, NestJS, TypeScript, Prisma
-
-### [voice-journal](https://github.com/iruma444/voice-journal)
-音声ジャーナリング × AI分析Webアプリ  
-ブラウザ録音 / 波形表示 / 日付別管理 / 感情傾向・ストレス分析 / 週次レポート  
-**Tech**: React, Vite, TypeScript
-
-### [izakaya-os-pro](https://github.com/iruma444/izakaya-os-pro)
-飲食店向け店舗OS（AIで運用を軽くする）  
-OCR / 発注文生成 / シフト表生成 / 日報整形 / 原価計算  
-**Tech**: Gemini API連携（プロトタイプ）
-
-### その他
-- **gakuLP**: 学チャレ合同会社LP（情報設計・実装）
-- **designHP / sketch**: デザイン表現・ジェネラティブアート（p5.js）
-
-## Working Style
-
-- 抽象化・構造化して、問題を扱えるサイズに分解する
-- 仕様より先に「運用の現実」を置いて設計する
-- "作って終わり"ではなく、改善し続けられる形にする
-- AIは精度だけでなく、導入・継続利用・責任範囲まで含めて設計する
-- PMとして、関係者調整・優先順位付け・進行管理まで一気通貫で担う
-
-## Direction
-
-最終的には**「パーソナルAI」**の実現を目指していますが、初期は大学・現場など小さなスコープで"本当に使われる"形を作り、実装 → 運用 → 改善のサイクルを回しながら拡張していきます。
-
-## Contact
-
-- GitHub: [@iruma444](https://github.com/iruma444)
+### **Other**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- PM（プロジェクト管理・優先順位付け・関係者調整）
+- 営業・マーケティング（テレアポ・訪問・SNS・SEO）
+- コミュニティ運営
 
 ---
 
-**"仕組み化と実装で、現実を前に進める"**
+## 🌟 Interests
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ 土木・インフラ × AI
+- 土木現場のDX
+- 橋梁・トンネルのひび割れ自動検出
+- ドローン × AIによるインフラ点検
+- "現場で使える"精度と運用導線の設計
+
+</td>
+<td width="50%">
+
+### 📚 教育・学習支援
+- 大学講義資料・シラバス・ノートを統合した学習支援AI
+- 小規模コミュニティから実装して改善するアプローチ
+- 学習を阻害しない支援の形を模索
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎙️ 内省 × プロダクト
+- 音声ジャーナリング
+- 感情傾向分析・週次レポート
+- 内省をデータ化し自己理解を前に進める設計
+
+</td>
+<td width="50%">
+
+### 💼 業務・運用設計
+- 事業の"運用"を設計
+- 現場の意思決定を速くするダッシュボード
+- 業務の属人性を減らすテンプレ化・ワークフロー化
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📂 Projects
+
+### 🏗️ [civil-flow](https://github.com/iruma444/civil-flow)
+> 土木現場向け勤怠管理・ワークフロー基盤
+
+**Features**: GPS打刻 / 天気API / 統計ダッシュボード / 休暇申請 / CSV・PDF出力 / PWA / 通知  
+**Tech**: `Next.js` `NestJS` `TypeScript` `Prisma`
+
+---
+
+### 🎙️ [voice-journal](https://github.com/iruma444/voice-journal)
+> 音声ジャーナリング × AI分析Webアプリ
+
+**Features**: ブラウザ録音 / 波形表示 / 日付別管理 / 感情傾向・ストレス分析 / 週次レポート  
+**Tech**: `React` `Vite` `TypeScript`
+
+---
+
+### 🍽️ [izakaya-os-pro](https://github.com/iruma444/izakaya-os-pro)
+> 飲食店向け店舗OS（AIで運用を軽くする）
+
+**Features**: OCR / 発注文生成 / シフト表生成 / 日報整形 / 原価計算  
+**Tech**: `Gemini API`（プロトタイプ）
+
+---
+
+### 🎨 Other
+- **gakuLP**: 学チャレ合同会社LP（情報設計・実装）
+- **designHP / sketch**: デザイン表現・ジェネラティブアート（`p5.js`）
+
+---
+
+## 🎯 Working Style
