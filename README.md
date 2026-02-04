@@ -6,8 +6,8 @@
 **東京大学 松尾研究室でAI・機械学習を学習中**
 
 [![GitHub](https://img.shields.io/badge/GitHub-iruma444-181717?style=flat-square&logo=github)](https://github.com/iruma444)
-[![Twitter](https://img.shields.io/badge/Twitter-@iruma444-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/iruma444)
-[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@iruma444-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/at_x_y_)
+[![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail)](chaobinaimulang@gmail.com)
 
 **"仕組み化と実装で、現実を前に進める"**
 
@@ -132,9 +132,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-iruma444-181717?style=for-the-badge&logo=github)](https://github.com/iruma444)
-[![Twitter](https://img.shields.io/badge/Twitter-@iruma444-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/iruma444)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome)](https://your-portfolio.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@iruma444-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/at_x_y_)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](chaobinaimulang@gmail.com)
 
 **お仕事のご相談・コラボレーションのお誘いなど、お気軽にご連絡ください！**
 
