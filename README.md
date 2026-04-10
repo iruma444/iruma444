@@ -3,7 +3,7 @@
 <div align="center">
 
 **愛媛大学 工学部 3年 | 土木系研究室所属 | 大阪出身**  
-**東京大学 松尾研究室でAI・機械学習を学習中**
+**AI・機械学習を学習中**
 
 [![GitHub](https://img.shields.io/badge/GitHub-iruma444-181717?style=flat-square&logo=github)](https://github.com/iruma444)
 [![Twitter](https://img.shields.io/badge/Twitter-@at_x_y_-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/at_x_y_)
@@ -27,13 +27,13 @@
 
 ### 🎓 Academic
 - **専攻**: 土木工学（構造物における非破壊調査・振動測定）
-- **AI学習**: 松尾研究室（東大）で深層学習・生成AI（LLM・Diffusionモデル）を数学的に理解
+- **AI学習**: 深層学習・生成AI（LLM・Diffusionモデル）を数学的に理解
 - **知識領域**: 力学・コンクリート特性・都市計画・交通量予測など土木系全般
 - **今後**: 愛媛大学院進学予定（あと3年は愛媛）
 
 ### 🚀 Business Experience
 - **個人事業主**: Web開発・PM・業務設計・仕組み化
-- **GCI愛媛コミュニティ運営**: 松尾研の入門講座の地域コミュニティ運営
+- **えひめGCIコミュニティ運営**: 松尾研の入門講座の地域コミュニティ運営
 - **事業開発**: 印刷系上場企業でECサイト周りの事業開発（2年）
   - 営業（テレアポ・訪問）
   - マーケティング（SNS・SEO）
