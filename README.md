@@ -1,1 +1,132 @@
+# 朝比奈 睦郎（iruma4）
 
+<div align="center">
+
+**愛媛大学 工学部 4年 | 土木系研究室所属 | 大阪出身**  
+**AI・機械学習を学習中**
+
+[![GitHub](https://img.shields.io/badge/GitHub-iruma444-181717?style=flat-square&logo=github)](https://github.com/iruma444)
+[![Twitter](https://img.shields.io/badge/Twitter-@at_x_y_-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/at_x_y_)
+@@ -27,121 +27,121 @@
+
+### 🎓 Academic
+- **専攻**: 土木工学（構造物における非破壊調査・振動測定）
+- **AI学習**: 深層学習・生成AI（LLM・Diffusionモデル）を数学的に理解
+- **AI学習**: 深層学習・生成AI（LLM・Diffusionモデル）を数学的に理解
+- **知識領域**: 力学・コンクリート特性・都市計画・交通量予測など土木系全般
+- **今後**: 愛媛大学院進学予定（あと3年は愛媛）
+
+### 🚀 Business Experience
+- **個人事業主**: Web開発・PM・業務設計・仕組み化
+- **えひめGCIコミュニティ運営**: 松尾研の入門講座の地域コミュニティ運営
+- **事業開発**: 印刷系上場企業でECサイト周りの事業開発（2年）
+  - 営業（テレアポ・訪問）
+  - マーケティング（SNS・SEO）
+  - コミュニティ運営
+- **起業経験**: えひめ学生起業塾・学チャレ合同会社
+- **ビジコン**: CVG四国で優秀賞
+
+### 🎙️ Other
+- **ラジオパーソナリティ**: FM愛媛
+
+---
+
+## 🛠️ Skills
+
+### **Frontend**
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![p5.js](https://img.shields.io/badge/-p5.js-ED225D?style=flat-square&logo=p5.js&logoColor=white)
+
+### **Backend**
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### **AI/ML**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- 深層学習（LLM・Diffusionモデルの数学的理解）
+- Gemini API / OpenAI API
+
+### **Other**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+
+- PM（プロジェクト管理・優先順位付け・関係者調整）
+- 営業・マーケティング（テレアポ・訪問・SNS・SEO）
+- コミュニティ運営
+
+---
+
+## 🌟 Interests
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ 土木・インフラ × AI
+- 土木現場のDX
+- 橋梁・トンネルのひび割れ自動検出
+- ドローン × AIによるインフラ点検
+- "現場で使える"精度と運用導線の設計
+
+</td>
+<td width="50%">
+
+### 📚 教育・学習支援
+- 大学講義資料・シラバス・ノートを統合した学習支援AI
+- 小規模コミュニティから実装して改善するアプローチ
+- 学習を阻害しない支援の形を模索
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎙️ 内省 × プロダクト
+- 音声ジャーナリング
+- 感情傾向分析・週次レポート
+- 内省をデータ化し自己理解を前に進める設計
+
+</td>
+<td width="50%">
+
+### 💼 業務・運用設計
+- 事業の"運用"を設計
+- 現場の意思決定を速くするダッシュボード
+- 業務の属人性を減らすテンプレ化・ワークフロー化
+
+</td>
+</tr>
+</table>
+
+## 🚀 Direction
+
+最終的には**パーソナルAI**の実現を目指していますが、初期は大学・現場など小さなスコープで"本当に使われる"形を作り、**実装 → 運用 → 改善のサイクル**を回しながら拡張していきます。
+
+---
+
+## 📬 Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-iruma444-181717?style=for-the-badge&logo=github)](https://github.com/iruma444)
+[![Twitter](https://img.shields.io/badge/Twitter-@at_x_y_-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/at_x_y_)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](chaobinaimulang@gmail.com)
+
+**お仕事のご相談・コラボレーションのお誘いなど、お気軽にご連絡ください！**
+
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️ by iruma4**
+
+</div>
