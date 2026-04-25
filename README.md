@@ -7,11 +7,26 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-iruma444-181717?style=flat-square&logo=github)](https://github.com/iruma444)
 [![Twitter](https://img.shields.io/badge/Twitter-@at_x_y_-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/at_x_y_)
-@@ -27,121 +27,121 @@
+[![Email](https://img.shields.io/badge/Email-chaobi-EA4335?stye=flat-square&logo=gmail)](chaobinaimulang@gmail.com)
+
+**"仕組み化と実装で、現実を前に進める"**
+
+</div>
+
+---
+
+## 🎯 About
+
+現実世界の複雑さを、**抽象化と構造化**で扱える形に変換し、**運用され続ける仕組み**として実装することに関心があります。
+
+課題を機能追加として捉えるのではなく、**現場の制約・心理・情報流通・意思決定・運用負荷**まで含めて設計し、AIを含む技術で解像度高く実装することを重視しています。
+
+---
+
+## 💼 Background
 
 ### 🎓 Academic
 - **専攻**: 土木工学（構造物における非破壊調査・振動測定）
-- **AI学習**: 深層学習・生成AI（LLM・Diffusionモデル）を数学的に理解
 - **AI学習**: 深層学習・生成AI（LLM・Diffusionモデル）を数学的に理解
 - **知識領域**: 力学・コンクリート特性・都市計画・交通量予測など土木系全般
 - **今後**: 愛媛大学院進学予定（あと3年は愛媛）
